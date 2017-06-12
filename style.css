@@ -1,0 +1,35 @@
+div {
+  width:100%;
+  border-style: 1px solid;
+  border-color: black;
+}
+div.div2 {
+  width:30%;
+  display: inline-block;
+}
+.img1 {
+  width: 500px;
+  height: 300px;
+}
+.img2 {
+  width: 200px;
+}
+
+h1 {
+  color:red;
+}
+h2 {
+  color:red;
+  height: 20px;
+}
+h3 {
+
+}
+h4 {
+
+}
+table {
+  border: 1px;
+  border-color: red;
+
+}
